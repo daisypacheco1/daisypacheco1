@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @daisypacheco1
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Html, Css and Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Daisy Pacheco
+- 👀 I’m interested in Cyber Security, Data Analysis, Web Development and Software Engineer 
 - 📫 How to reach me daisy.pacheco170@gmail.com
 
 <!---
